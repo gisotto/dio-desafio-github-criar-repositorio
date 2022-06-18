@@ -1,2 +1,4 @@
-# dio-desafio-github-criar-repositorio
-Desafio de Projeto Git?GitHub
+Desafio de Projeto DIO sobre Git/Github 
+Repositório criado para Desafio de Projeto
+
+[Sintaxe Basica *Markdown] (https://www.markdownguide.org/basic-syntax/)
